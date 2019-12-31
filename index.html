@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+body {
+    position: absolute;
+    font-family: "Proxima Nova", "Montserrat", sans-serif;
+}
+
+h1, h2, h3 {
+    position: absolute;
+    left: 10px;
+    font-size: 1.5em;
+    font-weight: 100;
+}
+
+h2 {
+    top: 35px;
+    font-size: 1em;
+}
+
+h3{
+  top: 30px;
+  font-size: 1em;
+}
+
+.tweet_event {
+    stroke: #000;
+}
+
+.hover {
+    fill: yellow;
+}
+
+/* ADD CSS FOR #sliderContainer */
+#sliderContainer {
+    text-align: center;
+    position: relative;
+    top: 650px;
+}
+
+.states {
+  fill: #DED5C6;
+  stroke: #000;
+  stroke-linejoin: round;
+}
+</style>
+<body style="background-color:#f1ede7">
+  <h1>What is the United States eating?</h1>
+  <h2>Hover to find out</h2>
+  <h3></h3>
+  <div id="sliderContainer">
+      <input id="timeslide" type="range" min="0" max="3" value="0" step="1"/><br>
+      <span id="range">breakfast</span>
+  </div>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="https://d3js.org/d3-array.v1.min.js"></script>
+  <script src="https://d3js.org/d3-geo.v1.min.js"></script>
+  <script src="https://d3js.org/d3-queue.v3.min.js"></script>
+  <script src="https://d3js.org/topojson.v1.min.js"></script>
+  <script>
+    var width = 1300,
+        height = 600;
+    var inputValue = null;
+    var categories = ["Breakfast", "Entree", "Side", "Dessert"];
+    var projection = d3.geoAlbersUsa()
+        .scale(1200)
+        .translate([150+(width / 2), height / 2]);
+    var path = d3.geoPath()
+        .projection(projection);
+    var svg = d3.select("body").append("svg")
+        .attr("width", width)
+        .attr("height", height);
+    var color = d3.scaleThreshold()
+        .domain([0.02, 0.04, 0.06, 0.08, 0.10])
+        .range(["#F2F0F7", "#DADAEB", "#BCBDDC", "#9E9AC8", "#756BB1", "#54278F"]);
+
+    d3.queue()
+        .defer(d3.json, "data/us.json")
+        .defer(d3.json, "data/food_data.json")
+        .await(ready);
+
+    function ready(error, us, food_data) {
+        if (error) {
+            throw error;
+        }
+        svg.append("g")
+            .attr("class", "states")
+            .selectAll("path")
+            .data(topojson.feature(us, us.objects.states).features)
+            .enter()
+            .append("path")
+            .attr("d", path);
+
+        svg.append("g")
+            .selectAll("path")
+    	      .data(food_data.features)
+            .enter()
+            .append("path")
+            .attr("fill", initialCategory)
+            .attr("d", path)
+            .attr("class", "tweet_event")
+            .on("mouseover", function(d){
+                d3.select("h2").text(d.properties.food);
+                d3.select(this).attr("class", "tweet_event hover");
+    	      })
+            .on("mouseout", function(d){
+    		        d3.select("h2").text("Hover to find out");
+                d3.select(this).attr("class", "tweet_event");
+    	      });
+
+        // when the input range changes update the value
+        d3.select("#timeslide").on("input", function() {
+            update(this.value);
+        });
+
+        // update the fill of each SVG of class "tweet_event" with value
+        function update(value) {
+            var cat = categories[value];
+            document.getElementById("range").innerHTML = cat;
+            inputValue = cat;
+            d3.selectAll(".tweet_event")
+                .attr("fill", categoryMatch);
+        }
+
+        function categoryMatch(data, value) {
+            if (data.properties.category === inputValue) {
+                this.parentElement.appendChild(this);
+                return "red";
+            } else {
+                return "#0F4C81";
+            };
+        }
+
+        function initialCategory(data, i) {
+            var cat = categories[0];
+            if (data.properties.category === "Breakfast") {
+                this.parentElement.appendChild(this);
+                return "red";
+            } else {
+                return "#0F4C81";
+            };
+        }
+     }
+</script>

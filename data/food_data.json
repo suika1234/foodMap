@@ -1,0 +1,4226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "1210391658543636485",
+            "properties": {
+                "timestamp": "1577443634",
+                "date": "2019-12-27 10:47",
+                "tweet_url": "https://twitter.com/i/web/status/1210391658543636485",
+                "food": " Bacon And Egg Cups",
+                "category": "Breakfast",
+                "country": "United States of America",
+                "lat": "41.8755616",
+                "lon": "-87.6244212"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-87.6244212",
+                    "41.8755616"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210326234569179136",
+            "properties": {
+                "timestamp": "1577428035",
+                "date": "2019-12-27 06:27",
+                "tweet_url": "https://twitter.com/i/web/status/1210326234569179136",
+                "food": "3 layer Vermont maple spice cake",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "43.6447642",
+                "lon": "-114.0154071"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-114.0154071",
+                    "43.6447642"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210431672736464896",
+            "properties": {
+                "timestamp": "1577453174",
+                "date": "2019-12-27 13:26",
+                "tweet_url": "https://twitter.com/i/web/status/1210431672736464896",
+                "food": "A Sausage Gumbo",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "43.074761",
+                "lon": "-89.3837613"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-89.3837613",
+                    "43.074761"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210317029238030336",
+            "properties": {
+                "timestamp": "1577425841",
+                "date": "2019-12-27 05:50",
+                "tweet_url": "https://twitter.com/i/web/status/1210317029238030336",
+                "food": "Apple Pie",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "37.1232245",
+                "lon": "-78.4927721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.4927721",
+                    "37.1232245"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210397790410563586",
+            "properties": {
+                "timestamp": "1577445095",
+                "date": "2019-12-27 11:11",
+                "tweet_url": "https://twitter.com/i/web/status/1210397790410563586",
+                "food": "Apple Pie",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "38.7251776",
+                "lon": "-105.6077167"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-105.6077167",
+                    "38.7251776"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210407458528563202",
+            "properties": {
+                "timestamp": "1577447401",
+                "date": "2019-12-27 11:50",
+                "tweet_url": "https://twitter.com/i/web/status/1210407458528563202",
+                "food": "Asparagus",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "32.7947731",
+                "lon": "-116.9625269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-116.9625269",
+                    "32.7947731"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210352659494035456",
+            "properties": {
+                "timestamp": "1577434335",
+                "date": "2019-12-27 08:12",
+                "tweet_url": "https://twitter.com/i/web/status/1210352659494035456",
+                "food": "Avocado Toast",
+                "category": "Breakfast",
+                "country": "Canada",
+                "lat": "50.08733665",
+                "lon": "-125.015078942502"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-125.015078942502",
+                    "50.08733665"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210363767034404872",
+            "properties": {
+                "timestamp": "1577436984",
+                "date": "2019-12-27 08:56",
+                "tweet_url": "https://twitter.com/i/web/status/1210363767034404872",
+                "food": "Bacon Wrapped Water Chestnuts",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "40.0796606",
+                "lon": "-89.4337288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-89.4337288",
+                    "40.0796606"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210428197948407808",
+            "properties": {
+                "timestamp": "1577452345",
+                "date": "2019-12-27 13:12",
+                "tweet_url": "https://twitter.com/i/web/status/1210428197948407808",
+                "food": "Bacon-wrapped stick",
+                "category": "Breakfast",
+                "country": "United States",
+                "lat": "37.7021521",
+                "lon": "-121.9357918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.9357918",
+                    "37.7021521"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210321666435366918",
+            "properties": {
+                "timestamp": "1577426946",
+                "date": "2019-12-27 06:09",
+                "tweet_url": "https://twitter.com/i/web/status/1210321666435366918",
+                "food": "Bacon, eggs and sausage",
+                "category": "Breakfast",
+                "country": "United States of America",
+                "lat": "33.6956461",
+                "lon": "-78.8900409"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.8900409",
+                    "33.6956461"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210412502002978817",
+            "properties": {
+                "timestamp": "1577448603",
+                "date": "2019-12-27 12:10",
+                "tweet_url": "https://twitter.com/i/web/status/1210412502002978817",
+                "food": "Baked Pasta",
+                "category": "Entree",
+                "country": "Canada",
+                "lat": "43.3451474",
+                "lon": "-79.7819257"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-79.7819257",
+                    "43.3451474"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210251275192979458",
+            "properties": {
+                "timestamp": "1577410164",
+                "date": "2019-12-27 01:29",
+                "tweet_url": "https://twitter.com/i/web/status/1210251275192979458",
+                "food": "Banana Cream Cheesecake",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "41.5538091",
+                "lon": "-73.0438362"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.0438362",
+                    "41.5538091"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210274303587110913",
+            "properties": {
+                "timestamp": "1577415654",
+                "date": "2019-12-27 03:00",
+                "tweet_url": "https://twitter.com/i/web/status/1210274303587110913",
+                "food": "Beef and Noodle Soup",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "42.7876022",
+                "lon": "-86.1090828"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-86.1090828",
+                    "42.7876022"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210362246632620032",
+            "properties": {
+                "timestamp": "1577436621",
+                "date": "2019-12-27 08:50",
+                "tweet_url": "https://twitter.com/i/web/status/1210362246632620032",
+                "food": "Beef Brisket",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "43.6166163",
+                "lon": "-116.200886"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-116.200886",
+                    "43.6166163"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210252303330160641",
+            "properties": {
+                "timestamp": "1577410409",
+                "date": "2019-12-27 01:33",
+                "tweet_url": "https://twitter.com/i/web/status/1210252303330160641",
+                "food": "Beef stew with dumplings",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "40.0707244",
+                "lon": "-74.1280562"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.1280562",
+                    "40.0707244"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210329907038961664",
+            "properties": {
+                "timestamp": "1577428911",
+                "date": "2019-12-27 06:41",
+                "tweet_url": "https://twitter.com/i/web/status/1210329907038961664",
+                "food": "Beef Stroganoff Recipe",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "38.8339578",
+                "lon": "-104.8253485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-104.8253485",
+                    "38.8339578"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210356415812046848",
+            "properties": {
+                "timestamp": "1577435231",
+                "date": "2019-12-27 08:27",
+                "tweet_url": "https://twitter.com/i/web/status/1210356415812046848",
+                "food": "Beef Wellington",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "44.4506775",
+                "lon": "-89.2845905"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-89.2845905",
+                    "44.4506775"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210344938178695168",
+            "properties": {
+                "timestamp": "1577432495",
+                "date": "2019-12-27 07:41",
+                "tweet_url": "https://twitter.com/i/web/status/1210344938178695168",
+                "food": "Black bean burger with chipotle aioli and tortilla soup",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "38.7604815",
+                "lon": "-92.5617875"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-92.5617875",
+                    "38.7604815"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210252715047174146",
+            "properties": {
+                "timestamp": "1577410507",
+                "date": "2019-12-27 01:35",
+                "tweet_url": "https://twitter.com/i/web/status/1210252715047174146",
+                "food": "Blondies",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "43.6211955",
+                "lon": "-84.6824346"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.6824346",
+                    "43.6211955"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210398106388291586",
+            "properties": {
+                "timestamp": "1577445171",
+                "date": "2019-12-27 11:12",
+                "tweet_url": "https://twitter.com/i/web/status/1210398106388291586",
+                "food": "Braised Pork Belly",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "38.8948932",
+                "lon": "-77.0365529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.0365529",
+                    "38.8948932"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210329940710821889",
+            "properties": {
+                "timestamp": "1577428919",
+                "date": "2019-12-27 06:41",
+                "tweet_url": "https://twitter.com/i/web/status/1210329940710821889",
+                "food": "Bread",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "38.67950505",
+                "lon": "-121.059366048901"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.059366048901",
+                    "38.67950505"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210370700000796674",
+            "properties": {
+                "timestamp": "1577438637",
+                "date": "2019-12-27 09:23",
+                "tweet_url": "https://twitter.com/i/web/status/1210370700000796674",
+                "food": "Bread",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "39.9622601",
+                "lon": "-83.0007065"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-83.0007065",
+                    "39.9622601"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210227910411530240",
+            "properties": {
+                "timestamp": "1577404593",
+                "date": "2019-12-26 23:56",
+                "tweet_url": "https://twitter.com/i/web/status/1210227910411530240",
+                "food": "Breakfast",
+                "category": "Breakfast",
+                "country": "United States of America",
+                "lat": "42.8867166",
+                "lon": "-78.8783922"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.8783922",
+                    "42.8867166"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210259240226410496",
+            "properties": {
+                "timestamp": "1577412063",
+                "date": "2019-12-27 02:01",
+                "tweet_url": "https://twitter.com/i/web/status/1210259240226410496",
+                "food": "Breakfast Buffet",
+                "category": "Breakfast",
+                "country": "Canada",
+                "lat": "45.4149778",
+                "lon": "-72.749396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.749396",
+                    "45.4149778"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210232683432837120",
+            "properties": {
+                "timestamp": "1577405731",
+                "date": "2019-12-27 00:15",
+                "tweet_url": "https://twitter.com/i/web/status/1210232683432837120",
+                "food": "Breakfast Sandwich",
+                "category": "Breakfast",
+                "country": "United States of America",
+                "lat": "42.40843",
+                "lon": "-71.0536625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.0536625",
+                    "42.40843"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210409845096173574",
+            "properties": {
+                "timestamp": "1577447970",
+                "date": "2019-12-27 11:59",
+                "tweet_url": "https://twitter.com/i/web/status/1210409845096173574",
+                "food": "Breakfast Sausage Egg and Cheese Biscuit Sandwich",
+                "category": "Breakfast",
+                "country": "United States of America",
+                "lat": "38.8339578",
+                "lon": "-104.8253485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-104.8253485",
+                    "38.8339578"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210230564772614149",
+            "properties": {
+                "timestamp": "1577405226",
+                "date": "2019-12-27 00:07",
+                "tweet_url": "https://twitter.com/i/web/status/1210230564772614149",
+                "food": "Breakfast Tacos",
+                "category": "Breakfast",
+                "country": "United States",
+                "lat": "33.43291105",
+                "lon": "-112.009421784383"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-112.009421784383",
+                    "33.43291105"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210373159569879041",
+            "properties": {
+                "timestamp": "1577439223",
+                "date": "2019-12-27 09:33",
+                "tweet_url": "https://twitter.com/i/web/status/1210373159569879041",
+                "food": "Brioche",
+                "category": "Breakfast",
+                "country": "United States of America",
+                "lat": "42.3788774",
+                "lon": "-72.032366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.032366",
+                    "42.3788774"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210443218107748353",
+            "properties": {
+                "timestamp": "1577455926",
+                "date": "2019-12-27 14:12",
+                "tweet_url": "https://twitter.com/i/web/status/1210443218107748353",
+                "food": "Brioche Bread",
+                "category": "Breakfast",
+                "country": "United States of America",
+                "lat": "32.7762719",
+                "lon": "-96.7968559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-96.7968559",
+                    "32.7762719"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210311427241762821",
+            "properties": {
+                "timestamp": "1577424505",
+                "date": "2019-12-27 05:28",
+                "tweet_url": "https://twitter.com/i/web/status/1210311427241762821",
+                "food": "Brown Sugar Bacon",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "37.9372901",
+                "lon": "-121.2773719"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.2773719",
+                    "37.9372901"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210384803687739392",
+            "properties": {
+                "timestamp": "1577441999",
+                "date": "2019-12-27 10:19",
+                "tweet_url": "https://twitter.com/i/web/status/1210384803687739392",
+                "food": "Brownies",
+                "category": "Dessert",
+                "country": "United States",
+                "lat": "37.5385087",
+                "lon": "-77.43428"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.43428",
+                    "37.5385087"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210313659592957957",
+            "properties": {
+                "timestamp": "1577425037",
+                "date": "2019-12-27 05:37",
+                "tweet_url": "https://twitter.com/i/web/status/1210313659592957957",
+                "food": "Brunch",
+                "category": "Breakfast",
+                "country": "Canada",
+                "lat": "45.4149778",
+                "lon": "-72.749396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.749396",
+                    "45.4149778"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210416607958372353",
+            "properties": {
+                "timestamp": "1577449582",
+                "date": "2019-12-27 12:26",
+                "tweet_url": "https://twitter.com/i/web/status/1210416607958372353",
+                "food": "Burger",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "38.5815719",
+                "lon": "-121.4943996"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.4943996",
+                    "38.5815719"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210421129728401413",
+            "properties": {
+                "timestamp": "1577450660",
+                "date": "2019-12-27 12:44",
+                "tweet_url": "https://twitter.com/i/web/status/1210421129728401413",
+                "food": "Buttercake",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "27.7567667",
+                "lon": "-81.4639835"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.4639835",
+                    "27.7567667"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210343502028189696",
+            "properties": {
+                "timestamp": "1577432152",
+                "date": "2019-12-27 07:35",
+                "tweet_url": "https://twitter.com/i/web/status/1210343502028189696",
+                "food": "Caramel Cake",
+                "category": "Dessert",
+                "country": "United States",
+                "lat": "33.7490987",
+                "lon": "-84.3901849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.3901849",
+                    "33.7490987"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210294487295168517",
+            "properties": {
+                "timestamp": "1577420466",
+                "date": "2019-12-27 04:21",
+                "tweet_url": "https://twitter.com/i/web/status/1210294487295168517",
+                "food": "Carb Free Bread Recipe",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "32.7762719",
+                "lon": "-96.7968559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-96.7968559",
+                    "32.7762719"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210254973109452800",
+            "properties": {
+                "timestamp": "1577411045",
+                "date": "2019-12-27 01:44",
+                "tweet_url": "https://twitter.com/i/web/status/1210254973109452800",
+                "food": "Carnitas breakfast burrito",
+                "category": "Breakfast",
+                "country": "United States of America",
+                "lat": "44.9772995",
+                "lon": "-93.2654692"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.2654692",
+                    "44.9772995"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210261401974870016",
+            "properties": {
+                "timestamp": "1577412578",
+                "date": "2019-12-27 02:09",
+                "tweet_url": "https://twitter.com/i/web/status/1210261401974870016",
+                "food": "Chana Dal Saag",
+                "category": "Side",
+                "country": "United States",
+                "lat": "37.1677128",
+                "lon": "-94.8464256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-94.8464256",
+                    "37.1677128"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210360107642564608",
+            "properties": {
+                "timestamp": "1577436111",
+                "date": "2019-12-27 08:41",
+                "tweet_url": "https://twitter.com/i/web/status/1210360107642564608",
+                "food": "Chcocolate Cake",
+                "category": "Dessert",
+                "country": "United States",
+                "lat": "33.7490987",
+                "lon": "-84.3901849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.3901849",
+                    "33.7490987"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210252328512688131",
+            "properties": {
+                "timestamp": "1577410415",
+                "date": "2019-12-27 01:33",
+                "tweet_url": "https://twitter.com/i/web/status/1210252328512688131",
+                "food": "Cheese",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "41.7010642",
+                "lon": "-71.1546367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.1546367",
+                    "41.7010642"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210362840886005760",
+            "properties": {
+                "timestamp": "1577436763",
+                "date": "2019-12-27 08:52",
+                "tweet_url": "https://twitter.com/i/web/status/1210362840886005760",
+                "food": "Cheese fondue",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "39.5162234",
+                "lon": "-76.9382069"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-76.9382069",
+                    "39.5162234"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210293869788696578",
+            "properties": {
+                "timestamp": "1577420319",
+                "date": "2019-12-27 04:18",
+                "tweet_url": "https://twitter.com/i/web/status/1210293869788696578",
+                "food": "Cheeseburger",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "36.7014631",
+                "lon": "-118.7559974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.7559974",
+                    "36.7014631"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210367990186819586",
+            "properties": {
+                "timestamp": "1577437991",
+                "date": "2019-12-27 09:13",
+                "tweet_url": "https://twitter.com/i/web/status/1210367990186819586",
+                "food": "Cheesecake With Raspberry Topping",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "32.7762719",
+                "lon": "-96.7968559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-96.7968559",
+                    "32.7762719"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210344669319778305",
+            "properties": {
+                "timestamp": "1577432430",
+                "date": "2019-12-27 07:40",
+                "tweet_url": "https://twitter.com/i/web/status/1210344669319778305",
+                "food": "Chicken casserole",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "35.199458",
+                "lon": "-111.6514259"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-111.6514259",
+                    "35.199458"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210258482512977921",
+            "properties": {
+                "timestamp": "1577411882",
+                "date": "2019-12-27 01:58",
+                "tweet_url": "https://twitter.com/i/web/status/1210258482512977921",
+                "food": "Chicken Parmesan",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "40.7127281",
+                "lon": "-74.0060152"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.0060152",
+                    "40.7127281"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210259740833566723",
+            "properties": {
+                "timestamp": "1577412182",
+                "date": "2019-12-27 02:03",
+                "tweet_url": "https://twitter.com/i/web/status/1210259740833566723",
+                "food": "Chicken Tortilla Soup",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "29.4246002",
+                "lon": "-98.4951405"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-98.4951405",
+                    "29.4246002"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210241734459953155",
+            "properties": {
+                "timestamp": "1577407889",
+                "date": "2019-12-27 00:51",
+                "tweet_url": "https://twitter.com/i/web/status/1210241734459953155",
+                "food": "Chocolate Pecan",
+                "category": "Dessert",
+                "country": "United States",
+                "lat": "33.7490987",
+                "lon": "-84.3901849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.3901849",
+                    "33.7490987"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210399422909206528",
+            "properties": {
+                "timestamp": "1577445485",
+                "date": "2019-12-27 11:18",
+                "tweet_url": "https://twitter.com/i/web/status/1210399422909206528",
+                "food": "Chocolate Pound Cake",
+                "category": "Dessert",
+                "country": "United States",
+                "lat": "36.0959715",
+                "lon": "-79.2669619"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-79.2669619",
+                    "36.0959715"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210268398694944773",
+            "properties": {
+                "timestamp": "1577414246",
+                "date": "2019-12-27 02:37",
+                "tweet_url": "https://twitter.com/i/web/status/1210268398694944773",
+                "food": "Christmas Cookies",
+                "category": "Dessert",
+                "country": "United States",
+                "lat": "28.0470734",
+                "lon": "-81.9539892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.9539892",
+                    "28.0470734"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210365394894016512",
+            "properties": {
+                "timestamp": "1577437372",
+                "date": "2019-12-27 09:02",
+                "tweet_url": "https://twitter.com/i/web/status/1210365394894016512",
+                "food": "Christmas Ham Soup",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "32.7174209",
+                "lon": "-117.1627714"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.1627714",
+                    "32.7174209"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210372145844375552",
+            "properties": {
+                "timestamp": "1577438981",
+                "date": "2019-12-27 09:29",
+                "tweet_url": "https://twitter.com/i/web/status/1210372145844375552",
+                "food": "Chuck Steak With Green Giant Simply Steam Garden Vegetable Medley Lightly Sauced",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "33.3062223",
+                "lon": "-111.8413317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-111.8413317",
+                    "33.3062223"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210358864106807296",
+            "properties": {
+                "timestamp": "1577435815",
+                "date": "2019-12-27 08:36",
+                "tweet_url": "https://twitter.com/i/web/status/1210358864106807296",
+                "food": "Cinnamon roll cheesecake",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "32.6400541",
+                "lon": "-117.0841955"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.0841955",
+                    "32.6400541"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210450052692533248",
+            "properties": {
+                "timestamp": "1577457556",
+                "date": "2019-12-27 14:39",
+                "tweet_url": "https://twitter.com/i/web/status/1210450052692533248",
+                "food": "Cocktails",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "37.8044557",
+                "lon": "-122.2713563"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.2713563",
+                    "37.8044557"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210361731056361476",
+            "properties": {
+                "timestamp": "1577436498",
+                "date": "2019-12-27 08:48",
+                "tweet_url": "https://twitter.com/i/web/status/1210361731056361476",
+                "food": "Coconut Cake",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "35.7803977",
+                "lon": "-78.6390989"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.6390989",
+                    "35.7803977"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210378525326368768",
+            "properties": {
+                "timestamp": "1577440502",
+                "date": "2019-12-27 09:55",
+                "tweet_url": "https://twitter.com/i/web/status/1210378525326368768",
+                "food": "Collards",
+                "category": "Side",
+                "country": "United States",
+                "lat": "33.7490987",
+                "lon": "-84.3901849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.3901849",
+                    "33.7490987"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210450896427061248",
+            "properties": {
+                "timestamp": "1577457757",
+                "date": "2019-12-27 14:42",
+                "tweet_url": "https://twitter.com/i/web/status/1210450896427061248",
+                "food": "Cookies",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "27.7567667",
+                "lon": "-81.4639835"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.4639835",
+                    "27.7567667"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210406814627647489",
+            "properties": {
+                "timestamp": "1577447247",
+                "date": "2019-12-27 11:47",
+                "tweet_url": "https://twitter.com/i/web/status/1210406814627647489",
+                "food": "Cookies",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "36.7014631",
+                "lon": "-118.7559974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.7559974",
+                    "36.7014631"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210274453374095360",
+            "properties": {
+                "timestamp": "1577415690",
+                "date": "2019-12-27 03:01",
+                "tweet_url": "https://twitter.com/i/web/status/1210274453374095360",
+                "food": "Cookies",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "38.951883",
+                "lon": "-92.3337366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-92.3337366",
+                    "38.951883"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210353547931508739",
+            "properties": {
+                "timestamp": "1577434547",
+                "date": "2019-12-27 08:15",
+                "tweet_url": "https://twitter.com/i/web/status/1210353547931508739",
+                "food": "Cookies",
+                "category": "Dessert",
+                "country": "United States",
+                "lat": "33.9597677",
+                "lon": "-83.376398"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-83.376398",
+                    "33.9597677"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210270444533751808",
+            "properties": {
+                "timestamp": "1577414734",
+                "date": "2019-12-27 02:45",
+                "tweet_url": "https://twitter.com/i/web/status/1210270444533751808",
+                "food": "Cookies",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "43.6166163",
+                "lon": "-116.200886"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-116.200886",
+                    "43.6166163"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210257625721401345",
+            "properties": {
+                "timestamp": "1577411678",
+                "date": "2019-12-27 01:54",
+                "tweet_url": "https://twitter.com/i/web/status/1210257625721401345",
+                "food": "Cornbread",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "38.8948932",
+                "lon": "-77.0365529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.0365529",
+                    "38.8948932"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210358524842270720",
+            "properties": {
+                "timestamp": "1577435734",
+                "date": "2019-12-27 08:35",
+                "tweet_url": "https://twitter.com/i/web/status/1210358524842270720",
+                "food": "Cranberry Apple Galette",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "37.7792808",
+                "lon": "-122.4192363"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.4192363",
+                    "37.7792808"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210309101953179667",
+            "properties": {
+                "timestamp": "1577423951",
+                "date": "2019-12-27 05:19",
+                "tweet_url": "https://twitter.com/i/web/status/1210309101953179667",
+                "food": "Creamy Banana Nut Cake with Vanilla Bean Frosting",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "32.7762719",
+                "lon": "-96.7968559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-96.7968559",
+                    "32.7762719"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210339185955082242",
+            "properties": {
+                "timestamp": "1577431123",
+                "date": "2019-12-27 07:18",
+                "tweet_url": "https://twitter.com/i/web/status/1210339185955082242",
+                "food": "Cricket",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "34.395342",
+                "lon": "-111.7632755"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-111.7632755",
+                    "34.395342"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210307832903426048",
+            "properties": {
+                "timestamp": "1577423648",
+                "date": "2019-12-27 05:14",
+                "tweet_url": "https://twitter.com/i/web/status/1210307832903426048",
+                "food": "Dessert",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "34.0536909",
+                "lon": "-118.2427666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.2427666",
+                    "34.0536909"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210237750009614336",
+            "properties": {
+                "timestamp": "1577406939",
+                "date": "2019-12-27 00:35",
+                "tweet_url": "https://twitter.com/i/web/status/1210237750009614336",
+                "food": "Donuts",
+                "category": "Dessert",
+                "country": "United States",
+                "lat": "39.8211225",
+                "lon": "-105.220742990446"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-105.220742990446",
+                    "39.8211225"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210381632059793408",
+            "properties": {
+                "timestamp": "1577441243",
+                "date": "2019-12-27 10:07",
+                "tweet_url": "https://twitter.com/i/web/status/1210381632059793408",
+                "food": "Duck, bok choy and mashed potatoes",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "45.5202471",
+                "lon": "-122.6741949"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.6741949",
+                    "45.5202471"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210318465485201410",
+            "properties": {
+                "timestamp": "1577426183",
+                "date": "2019-12-27 05:56",
+                "tweet_url": "https://twitter.com/i/web/status/1210318465485201410",
+                "food": "Eggs",
+                "category": "Breakfast",
+                "country": "United States",
+                "lat": "39.7628227",
+                "lon": "-86.3997168"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-86.3997168",
+                    "39.7628227"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210240090611605504",
+            "properties": {
+                "timestamp": "1577407497",
+                "date": "2019-12-27 00:44",
+                "tweet_url": "https://twitter.com/i/web/status/1210240090611605504",
+                "food": "Eggs",
+                "category": "Breakfast",
+                "country": "United States of America",
+                "lat": "42.3602534",
+                "lon": "-71.0582912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.0582912",
+                    "42.3602534"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210261548586979328",
+            "properties": {
+                "timestamp": "1577412613",
+                "date": "2019-12-27 02:10",
+                "tweet_url": "https://twitter.com/i/web/status/1210261548586979328",
+                "food": "Eggs Benedict",
+                "category": "Breakfast",
+                "country": "United States of America",
+                "lat": "32.7174209",
+                "lon": "-117.1627714"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.1627714",
+                    "32.7174209"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210349781530402816",
+            "properties": {
+                "timestamp": "1577433649",
+                "date": "2019-12-27 08:00",
+                "tweet_url": "https://twitter.com/i/web/status/1210349781530402816",
+                "food": "enchiladas",
+                "category": "Breakfast",
+                "country": "United States",
+                "lat": "28.2336196",
+                "lon": "-82.1811947"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-82.1811947",
+                    "28.2336196"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210352867288195072",
+            "properties": {
+                "timestamp": "1577434385",
+                "date": "2019-12-27 08:13",
+                "tweet_url": "https://twitter.com/i/web/status/1210352867288195072",
+                "food": "Sesame Noodles recipe with Baby Bok Choy, Scallions, and Carrots",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "41.6661573",
+                "lon": "-81.339552"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.339552",
+                    "41.6661573"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210415258470375426",
+            "properties": {
+                "timestamp": "1577449260",
+                "date": "2019-12-27 12:21",
+                "tweet_url": "https://twitter.com/i/web/status/1210415258470375426",
+                "food": "Falafel",
+                "category": "Side",
+                "country": "Canada",
+                "lat": "45.4149778",
+                "lon": "-72.749396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.749396",
+                    "45.4149778"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210365194603581442",
+            "properties": {
+                "timestamp": "1577437324",
+                "date": "2019-12-27 09:02",
+                "tweet_url": "https://twitter.com/i/web/status/1210365194603581442",
+                "food": "Feta Stuffed Greek Burgers On The Grill With Tzatziki Sauce Recipe",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "32.7762719",
+                "lon": "-96.7968559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-96.7968559",
+                    "32.7762719"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210395825987358720",
+            "properties": {
+                "timestamp": "1577444627",
+                "date": "2019-12-27 11:03",
+                "tweet_url": "https://twitter.com/i/web/status/1210395825987358720",
+                "food": "Filet Mignon, Mac And Cheese, Mashed Potatoes",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "40.4031245",
+                "lon": "-79.778102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-79.778102",
+                    "40.4031245"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210257573871357952",
+            "properties": {
+                "timestamp": "1577411665",
+                "date": "2019-12-27 01:54",
+                "tweet_url": "https://twitter.com/i/web/status/1210257573871357952",
+                "food": "Fish",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "33.7490987",
+                "lon": "-84.3901849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.3901849",
+                    "33.7490987"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210387424662052864",
+            "properties": {
+                "timestamp": "1577442624",
+                "date": "2019-12-27 10:30",
+                "tweet_url": "https://twitter.com/i/web/status/1210387424662052864",
+                "food": "Fish Florentine",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "43.6211955",
+                "lon": "-84.6824346"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.6824346",
+                    "43.6211955"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210328938825895936",
+            "properties": {
+                "timestamp": "1577428680",
+                "date": "2019-12-27 06:38",
+                "tweet_url": "https://twitter.com/i/web/status/1210328938825895936",
+                "food": "French dip sandwiches",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "38.8948932",
+                "lon": "-77.0365529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.0365529",
+                    "38.8948932"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210279984935428101",
+            "properties": {
+                "timestamp": "1577417008",
+                "date": "2019-12-27 03:23",
+                "tweet_url": "https://twitter.com/i/web/status/1210279984935428101",
+                "food": "French Toast",
+                "category": "Breakfast",
+                "country": "United States",
+                "lat": "38.661953",
+                "lon": "-90.5643258"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-90.5643258",
+                    "38.661953"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210299435533688833",
+            "properties": {
+                "timestamp": "1577421646",
+                "date": "2019-12-27 04:40",
+                "tweet_url": "https://twitter.com/i/web/status/1210299435533688833",
+                "food": "French Toast",
+                "category": "Breakfast",
+                "country": "United States of America",
+                "lat": "47.6038321",
+                "lon": "-122.3300624"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.3300624",
+                    "47.6038321"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210318281900380160",
+            "properties": {
+                "timestamp": "1577426139",
+                "date": "2019-12-27 05:55",
+                "tweet_url": "https://twitter.com/i/web/status/1210318281900380160",
+                "food": "Fried Chicken",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "34.395342",
+                "lon": "-111.7632755"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-111.7632755",
+                    "34.395342"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210341358143033344",
+            "properties": {
+                "timestamp": "1577431641",
+                "date": "2019-12-27 07:27",
+                "tweet_url": "https://twitter.com/i/web/status/1210341358143033344",
+                "food": "Fried Chicken",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "33.7490987",
+                "lon": "-84.3901849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.3901849",
+                    "33.7490987"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210372906699636737",
+            "properties": {
+                "timestamp": "1577439163",
+                "date": "2019-12-27 09:32",
+                "tweet_url": "https://twitter.com/i/web/status/1210372906699636737",
+                "food": "Fried Rice",
+                "category": "Side",
+                "country": "United States",
+                "lat": "33.7490987",
+                "lon": "-84.3901849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.3901849",
+                    "33.7490987"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210364127303983104",
+            "properties": {
+                "timestamp": "1577437070",
+                "date": "2019-12-27 08:57",
+                "tweet_url": "https://twitter.com/i/web/status/1210364127303983104",
+                "food": "Fruit+Cheese+Nuts Board",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "32.7174209",
+                "lon": "-117.1627714"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.1627714",
+                    "32.7174209"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210375408463405056",
+            "properties": {
+                "timestamp": "1577439759",
+                "date": "2019-12-27 09:42",
+                "tweet_url": "https://twitter.com/i/web/status/1210375408463405056",
+                "food": "Fruitcake",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "34.395342",
+                "lon": "-111.7632755"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-111.7632755",
+                    "34.395342"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210234445686616065",
+            "properties": {
+                "timestamp": "1577406151",
+                "date": "2019-12-27 00:22",
+                "tweet_url": "https://twitter.com/i/web/status/1210234445686616065",
+                "food": "Funky cold spicy noodles, pork with pepper and ginger, and dry pot prawns",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "32.7762719",
+                "lon": "-96.7968559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-96.7968559",
+                    "32.7762719"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210362392405782529",
+            "properties": {
+                "timestamp": "1577436656",
+                "date": "2019-12-27 08:50",
+                "tweet_url": "https://twitter.com/i/web/status/1210362392405782529",
+                "food": "Garlic Butter Shrimp Pasta ",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "42.3602534",
+                "lon": "-71.0582912"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.0582912",
+                    "42.3602534"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210300075030851585",
+            "properties": {
+                "timestamp": "1577421798",
+                "date": "2019-12-27 04:43",
+                "tweet_url": "https://twitter.com/i/web/status/1210300075030851585",
+                "food": "garlic/rosemary peasant bread",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "44.6471761",
+                "lon": "-100.348761"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-100.348761",
+                    "44.6471761"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210243092420472834",
+            "properties": {
+                "timestamp": "1577408213",
+                "date": "2019-12-27 00:56",
+                "tweet_url": "https://twitter.com/i/web/status/1210243092420472834",
+                "food": "Ginger Bread",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "40.7127281",
+                "lon": "-74.0060152"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.0060152",
+                    "40.7127281"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210339521461719045",
+            "properties": {
+                "timestamp": "1577431203",
+                "date": "2019-12-27 07:20",
+                "tweet_url": "https://twitter.com/i/web/status/1210339521461719045",
+                "food": "Goat Cheese and Spinach Stuffed Meatloaf",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "43.4441245",
+                "lon": "-93.2210371"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-93.2210371",
+                    "43.4441245"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210365007407529984",
+            "properties": {
+                "timestamp": "1577437279",
+                "date": "2019-12-27 09:01",
+                "tweet_url": "https://twitter.com/i/web/status/1210365007407529984",
+                "food": "Grilled Cheese",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "29.7589382",
+                "lon": "-95.3676974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-95.3676974",
+                    "29.7589382"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210363217551282177",
+            "properties": {
+                "timestamp": "1577436853",
+                "date": "2019-12-27 08:54",
+                "tweet_url": "https://twitter.com/i/web/status/1210363217551282177",
+                "food": "Guinness Irish Stew with Cheddar Herb Dumplings",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "39.100105",
+                "lon": "-94.5781416"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-94.5781416",
+                    "39.100105"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210407244296269824",
+            "properties": {
+                "timestamp": "1577447349",
+                "date": "2019-12-27 11:49",
+                "tweet_url": "https://twitter.com/i/web/status/1210407244296269824",
+                "food": "Gumbo Potpie",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "43.5737361",
+                "lon": "-116.5596313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-116.5596313",
+                    "43.5737361"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210412794811731973",
+            "properties": {
+                "timestamp": "1577448673",
+                "date": "2019-12-27 12:11",
+                "tweet_url": "https://twitter.com/i/web/status/1210412794811731973",
+                "food": "Gyudon",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "40.7127281",
+                "lon": "-74.0060152"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.0060152",
+                    "40.7127281"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210423929841561602",
+            "properties": {
+                "timestamp": "1577451328",
+                "date": "2019-12-27 12:55",
+                "tweet_url": "https://twitter.com/i/web/status/1210423929841561602",
+                "food": "Ham",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "39.799232",
+                "lon": "-75.0641698821179"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-75.0641698821179",
+                    "39.799232"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210375015151083521",
+            "properties": {
+                "timestamp": "1577439665",
+                "date": "2019-12-27 09:41",
+                "tweet_url": "https://twitter.com/i/web/status/1210375015151083521",
+                "food": "Ham, greens, macaroni and cheese and candied yams",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "36.1622296",
+                "lon": "-86.7743531"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-86.7743531",
+                    "36.1622296"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210299648130330624",
+            "properties": {
+                "timestamp": "1577421697",
+                "date": "2019-12-27 04:41",
+                "tweet_url": "https://twitter.com/i/web/status/1210299648130330624",
+                "food": "Hamburgers with Fried Egg",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "45.5228939",
+                "lon": "-122.989827"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.989827",
+                    "45.5228939"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210356663124934664",
+            "properties": {
+                "timestamp": "1577435290",
+                "date": "2019-12-27 08:28",
+                "tweet_url": "https://twitter.com/i/web/status/1210356663124934664",
+                "food": "Hibachi Chicken",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "35.2270869",
+                "lon": "-80.8431268"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.8431268",
+                    "35.2270869"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210263974241017856",
+            "properties": {
+                "timestamp": "1577413191",
+                "date": "2019-12-27 02:19",
+                "tweet_url": "https://twitter.com/i/web/status/1210263974241017856",
+                "food": "Homemade Cherry Cinnamon Rolls",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "41.8755616",
+                "lon": "-87.6244212"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-87.6244212",
+                    "41.8755616"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210248246272151554",
+            "properties": {
+                "timestamp": "1577409441",
+                "date": "2019-12-27 01:17",
+                "tweet_url": "https://twitter.com/i/web/status/1210248246272151554",
+                "food": "Homemade Heart-Shaped Pop Tarts with Nutella and Biscoff Spread",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "38.8339578",
+                "lon": "-104.8253485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-104.8253485",
+                    "38.8339578"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210280155685502978",
+            "properties": {
+                "timestamp": "1577417049",
+                "date": "2019-12-27 03:24",
+                "tweet_url": "https://twitter.com/i/web/status/1210280155685502978",
+                "food": "Homemade Pita Pockets!",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "32.7762719",
+                "lon": "-96.7968559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-96.7968559",
+                    "32.7762719"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210356531574853633",
+            "properties": {
+                "timestamp": "1577435259",
+                "date": "2019-12-27 08:27",
+                "tweet_url": "https://twitter.com/i/web/status/1210356531574853633",
+                "food": "Honey glazed ham with grilled brussel sprouts, lemons and garlic cloves",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "36.1622296",
+                "lon": "-86.7743531"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-86.7743531",
+                    "36.1622296"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210379810696056833",
+            "properties": {
+                "timestamp": "1577440809",
+                "date": "2019-12-27 10:00",
+                "tweet_url": "https://twitter.com/i/web/status/1210379810696056833",
+                "food": "Hot Dog",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "30.2711286",
+                "lon": "-97.7436995"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-97.7436995",
+                    "30.2711286"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210262970934145027",
+            "properties": {
+                "timestamp": "1577412952",
+                "date": "2019-12-27 02:15",
+                "tweet_url": "https://twitter.com/i/web/status/1210262970934145027",
+                "food": "Hot pot for Christmas",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "32.7762719",
+                "lon": "-96.7968559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-96.7968559",
+                    "32.7762719"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210297070298554387",
+            "properties": {
+                "timestamp": "1577421082",
+                "date": "2019-12-27 04:31",
+                "tweet_url": "https://twitter.com/i/web/status/1210297070298554387",
+                "food": "Huevos a la flamenca",
+                "category": "Breakfast",
+                "country": "United States",
+                "lat": "34.0007493",
+                "lon": "-81.0343313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.0343313",
+                    "34.0007493"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210259416517398530",
+            "properties": {
+                "timestamp": "1577412105",
+                "date": "2019-12-27 02:01",
+                "tweet_url": "https://twitter.com/i/web/status/1210259416517398530",
+                "food": "Hungarian Sausages",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "33.5386858",
+                "lon": "-112.1859941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-112.1859941",
+                    "33.5386858"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210388665299394560",
+            "properties": {
+                "timestamp": "1577442920",
+                "date": "2019-12-27 10:35",
+                "tweet_url": "https://twitter.com/i/web/status/1210388665299394560",
+                "food": "Indian Curry",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "34.1816482",
+                "lon": "-118.3258554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.3258554",
+                    "34.1816482"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210334699148718086",
+            "properties": {
+                "timestamp": "1577430053",
+                "date": "2019-12-27 07:00",
+                "tweet_url": "https://twitter.com/i/web/status/1210334699148718086",
+                "food": "Irish Soda Bread",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "41.8755616",
+                "lon": "-87.6244212"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-87.6244212",
+                    "41.8755616"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210432946009595904",
+            "properties": {
+                "timestamp": "1577453477",
+                "date": "2019-12-27 13:31",
+                "tweet_url": "https://twitter.com/i/web/status/1210432946009595904",
+                "food": "Italian",
+                "category": "Italia",
+                "country": "United States",
+                "lat": "33.8347516",
+                "lon": "-117.911732"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.911732",
+                    "33.8347516"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210395465012805633",
+            "properties": {
+                "timestamp": "1577444541",
+                "date": "2019-12-27 11:02",
+                "tweet_url": "https://twitter.com/i/web/status/1210395465012805633",
+                "food": "Jam",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "47.6144219",
+                "lon": "-122.1923372"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.1923372",
+                    "47.6144219"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210321083305324544",
+            "properties": {
+                "timestamp": "1577426807",
+                "date": "2019-12-27 06:06",
+                "tweet_url": "https://twitter.com/i/web/status/1210321083305324544",
+                "food": "Japanese Bento",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "47.6038321",
+                "lon": "-122.3300624"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.3300624",
+                    "47.6038321"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210444410615263233",
+            "properties": {
+                "timestamp": "1577456211",
+                "date": "2019-12-27 14:16",
+                "tweet_url": "https://twitter.com/i/web/status/1210444410615263233",
+                "food": "Japanese Yam",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "34.0536909",
+                "lon": "-118.2427666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.2427666",
+                    "34.0536909"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210229973862113282",
+            "properties": {
+                "timestamp": "1577405085",
+                "date": "2019-12-27 00:04",
+                "tweet_url": "https://twitter.com/i/web/status/1210229973862113282",
+                "food": "Kolaches",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "34.395342",
+                "lon": "-111.7632755"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-111.7632755",
+                    "34.395342"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210236779015499776",
+            "properties": {
+                "timestamp": "1577406707",
+                "date": "2019-12-27 00:31",
+                "tweet_url": "https://twitter.com/i/web/status/1210236779015499776",
+                "food": "Korean Food",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "37.3361905",
+                "lon": "-121.8905833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.8905833",
+                    "37.3361905"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210312854210899968",
+            "properties": {
+                "timestamp": "1577424845",
+                "date": "2019-12-27 05:34",
+                "tweet_url": "https://twitter.com/i/web/status/1210312854210899968",
+                "food": "Latkes",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "29.7589382",
+                "lon": "-95.3676974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-95.3676974",
+                    "29.7589382"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210235302331191297",
+            "properties": {
+                "timestamp": "1577406355",
+                "date": "2019-12-27 00:25",
+                "tweet_url": "https://twitter.com/i/web/status/1210235302331191297",
+                "food": "Latkes",
+                "category": "Side",
+                "country": "United States",
+                "lat": "36.6915262",
+                "lon": "-79.8725386"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-79.8725386",
+                    "36.6915262"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210284307476099073",
+            "properties": {
+                "timestamp": "1577418039",
+                "date": "2019-12-27 03:40",
+                "tweet_url": "https://twitter.com/i/web/status/1210284307476099073",
+                "food": "Lemon bars",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "43.074761",
+                "lon": "-89.3837613"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-89.3837613",
+                    "43.074761"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210395128604418048",
+            "properties": {
+                "timestamp": "1577444461",
+                "date": "2019-12-27 11:01",
+                "tweet_url": "https://twitter.com/i/web/status/1210395128604418048",
+                "food": "Lobster Quesadilla & Lobster Grill Cheese",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "40.8466508",
+                "lon": "-73.8785937"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.8785937",
+                    "40.8466508"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210278502957821958",
+            "properties": {
+                "timestamp": "1577416655",
+                "date": "2019-12-27 03:17",
+                "tweet_url": "https://twitter.com/i/web/status/1210278502957821958",
+                "food": "Lobster Roll",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "29.9499323",
+                "lon": "-90.0701156"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-90.0701156",
+                    "29.9499323"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210414914189348865",
+            "properties": {
+                "timestamp": "1577449178",
+                "date": "2019-12-27 12:19",
+                "tweet_url": "https://twitter.com/i/web/status/1210414914189348865",
+                "food": "Mac And Cheese",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "26.1223084",
+                "lon": "-80.1433786"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.1433786",
+                    "26.1223084"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210299494002286603",
+            "properties": {
+                "timestamp": "1577421660",
+                "date": "2019-12-27 04:41",
+                "tweet_url": "https://twitter.com/i/web/status/1210299494002286603",
+                "food": "Matcha Oatmeal Smoothie Bowl",
+                "category": "Breakfast",
+                "country": "United States of America",
+                "lat": "33.7500378",
+                "lon": "-117.8704931"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.8704931",
+                    "33.7500378"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210313488779927552",
+            "properties": {
+                "timestamp": "1577424996",
+                "date": "2019-12-27 05:36",
+                "tweet_url": "https://twitter.com/i/web/status/1210313488779927552",
+                "food": "Matzo Ball Soup",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "32.7174209",
+                "lon": "-117.1627714"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.1627714",
+                    "32.7174209"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210245077353816064",
+            "properties": {
+                "timestamp": "1577408686",
+                "date": "2019-12-27 01:04",
+                "tweet_url": "https://twitter.com/i/web/status/1210245077353816064",
+                "food": "Meat, Polenta",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "40.6501038",
+                "lon": "-73.9495823"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.9495823",
+                    "40.6501038"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210252837554466816",
+            "properties": {
+                "timestamp": "1577410536",
+                "date": "2019-12-27 01:35",
+                "tweet_url": "https://twitter.com/i/web/status/1210252837554466816",
+                "food": "Meat, Salad Potatoe",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "40.6501038",
+                "lon": "-73.9495823"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.9495823",
+                    "40.6501038"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210279490905149441",
+            "properties": {
+                "timestamp": "1577416891",
+                "date": "2019-12-27 03:21",
+                "tweet_url": "https://twitter.com/i/web/status/1210279490905149441",
+                "food": "Meatloaf",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "34.947959",
+                "lon": "-83.7569922"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-83.7569922",
+                    "34.947959"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210318276464480257",
+            "properties": {
+                "timestamp": "1577426138",
+                "date": "2019-12-27 05:55",
+                "tweet_url": "https://twitter.com/i/web/status/1210318276464480257",
+                "food": "Mexican food and margaritas",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "39.1014537",
+                "lon": "-84.5124602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.5124602",
+                    "39.1014537"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210334532118945792",
+            "properties": {
+                "timestamp": "1577430014",
+                "date": "2019-12-27 07:00",
+                "tweet_url": "https://twitter.com/i/web/status/1210334532118945792",
+                "food": "Mimosas",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "43.5499749",
+                "lon": "-96.700327"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-96.700327",
+                    "43.5499749"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210299291463491584",
+            "properties": {
+                "timestamp": "1577421612",
+                "date": "2019-12-27 04:40",
+                "tweet_url": "https://twitter.com/i/web/status/1210299291463491584",
+                "food": "Mini Key Lime Pies",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "27.7567667",
+                "lon": "-81.4639835"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.4639835",
+                    "27.7567667"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210392695870558208",
+            "properties": {
+                "timestamp": "1577443881",
+                "date": "2019-12-27 10:51",
+                "tweet_url": "https://twitter.com/i/web/status/1210392695870558208",
+                "food": "Pancakes",
+                "category": "Breakfast",
+                "country": "United States of America",
+                "lat": "35.2225717",
+                "lon": "-97.4394816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-97.4394816",
+                    "35.2225717"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210277704672497665",
+            "properties": {
+                "timestamp": "1577416465",
+                "date": "2019-12-27 03:14",
+                "tweet_url": "https://twitter.com/i/web/status/1210277704672497665",
+                "food": "Pancakes",
+                "category": "Breakfast",
+                "country": "United States",
+                "lat": "47.219807",
+                "lon": "-124.204838"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-124.204838",
+                    "47.219807"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210424812524507136",
+            "properties": {
+                "timestamp": "1577451538",
+                "date": "2019-12-27 12:58",
+                "tweet_url": "https://twitter.com/i/web/status/1210424812524507136",
+                "food": "Paneer",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "37.7884969",
+                "lon": "-122.3558473"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.3558473",
+                    "37.7884969"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210373471148134400",
+            "properties": {
+                "timestamp": "1577439297",
+                "date": "2019-12-27 09:34",
+                "tweet_url": "https://twitter.com/i/web/status/1210373471148134400",
+                "food": "Pasta",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "35.0841034",
+                "lon": "-106.6509851"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-106.6509851",
+                    "35.0841034"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210329602020847618",
+            "properties": {
+                "timestamp": "1577428838",
+                "date": "2019-12-27 06:40",
+                "tweet_url": "https://twitter.com/i/web/status/1210329602020847618",
+                "food": "Peanut Butter Cookies",
+                "category": "Dessert",
+                "country": "United States",
+                "lat": "44.256265",
+                "lon": "-73.792419"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.792419",
+                    "44.256265"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210349131085955072",
+            "properties": {
+                "timestamp": "1577433494",
+                "date": "2019-12-27 07:58",
+                "tweet_url": "https://twitter.com/i/web/status/1210349131085955072",
+                "food": "Peanut Butter Cookies",
+                "category": "Dessert",
+                "country": "United States",
+                "lat": "33.66365425",
+                "lon": "-116.277702511296"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-116.277702511296",
+                    "33.66365425"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210401022985875456",
+            "properties": {
+                "timestamp": "1577445866",
+                "date": "2019-12-27 11:24",
+                "tweet_url": "https://twitter.com/i/web/status/1210401022985875456",
+                "food": "Pear bread",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "41.7370229",
+                "lon": "-99.5873816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-99.5873816",
+                    "41.7370229"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210234357241257984",
+            "properties": {
+                "timestamp": "1577406130",
+                "date": "2019-12-27 00:22",
+                "tweet_url": "https://twitter.com/i/web/status/1210234357241257984",
+                "food": "Pear Chicken With Russian Dressing",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "32.7762719",
+                "lon": "-96.7968559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-96.7968559",
+                    "32.7762719"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210253779087568903",
+            "properties": {
+                "timestamp": "1577410761",
+                "date": "2019-12-27 01:39",
+                "tweet_url": "https://twitter.com/i/web/status/1210253779087568903",
+                "food": "Pecan Pie",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "42.9632405",
+                "lon": "-85.6678639"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-85.6678639",
+                    "42.9632405"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210383593152950272",
+            "properties": {
+                "timestamp": "1577441711",
+                "date": "2019-12-27 10:15",
+                "tweet_url": "https://twitter.com/i/web/status/1210383593152950272",
+                "food": "Pecorino Romano Salad And Chicken",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "32.7762719",
+                "lon": "-96.7968559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-96.7968559",
+                    "32.7762719"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210309670243463168",
+            "properties": {
+                "timestamp": "1577424086",
+                "date": "2019-12-27 05:21",
+                "tweet_url": "https://twitter.com/i/web/status/1210309670243463168",
+                "food": "Peppermint Marshmallow Cake",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "38.2544472",
+                "lon": "-104.609141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-104.609141",
+                    "38.2544472"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210381043506790400",
+            "properties": {
+                "timestamp": "1577441103",
+                "date": "2019-12-27 10:05",
+                "tweet_url": "https://twitter.com/i/web/status/1210381043506790400",
+                "food": "Pho",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "29.7589382",
+                "lon": "-95.3676974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-95.3676974",
+                    "29.7589382"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210327557532311552",
+            "properties": {
+                "timestamp": "1577428351",
+                "date": "2019-12-27 06:32",
+                "tweet_url": "https://twitter.com/i/web/status/1210327557532311552",
+                "food": "Pho",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "34.1508718",
+                "lon": "-118.4489865"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.4489865",
+                    "34.1508718"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210286976102027264",
+            "properties": {
+                "timestamp": "1577418675",
+                "date": "2019-12-27 03:51",
+                "tweet_url": "https://twitter.com/i/web/status/1210286976102027264",
+                "food": "Pie",
+                "category": "Dessert",
+                "country": "United States",
+                "lat": "36.9682101",
+                "lon": "-76.9896882"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-76.9896882",
+                    "36.9682101"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210324462962446336",
+            "properties": {
+                "timestamp": "1577427613",
+                "date": "2019-12-27 06:20",
+                "tweet_url": "https://twitter.com/i/web/status/1210324462962446336",
+                "food": "Pina Colada Cake",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "32.7762719",
+                "lon": "-96.7968559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-96.7968559",
+                    "32.7762719"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210413094654160896",
+            "properties": {
+                "timestamp": "1577448744",
+                "date": "2019-12-27 12:12",
+                "tweet_url": "https://twitter.com/i/web/status/1210413094654160896",
+                "food": "Pizza",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "39.7837304",
+                "lon": "-100.4458825"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-100.4458825",
+                    "39.7837304"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210430466345644032",
+            "properties": {
+                "timestamp": "1577452886",
+                "date": "2019-12-27 13:21",
+                "tweet_url": "https://twitter.com/i/web/status/1210430466345644032",
+                "food": "Pizza",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "38.2542376",
+                "lon": "-85.759407"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-85.759407",
+                    "38.2542376"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210384330515763200",
+            "properties": {
+                "timestamp": "1577441886",
+                "date": "2019-12-27 10:18",
+                "tweet_url": "https://twitter.com/i/web/status/1210384330515763200",
+                "food": "Pizza",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "33.7490987",
+                "lon": "-84.3901849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.3901849",
+                    "33.7490987"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210412956229308422",
+            "properties": {
+                "timestamp": "1577448711",
+                "date": "2019-12-27 12:11",
+                "tweet_url": "https://twitter.com/i/web/status/1210412956229308422",
+                "food": "Popcorn",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "40.0796606",
+                "lon": "-89.4337288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-89.4337288",
+                    "40.0796606"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210374624325906432",
+            "properties": {
+                "timestamp": "1577439572",
+                "date": "2019-12-27 09:39",
+                "tweet_url": "https://twitter.com/i/web/status/1210374624325906432",
+                "food": "Pork Belly",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "32.7876012",
+                "lon": "-79.9402728"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-79.9402728",
+                    "32.7876012"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210285293812801538",
+            "properties": {
+                "timestamp": "1577418274",
+                "date": "2019-12-27 03:44",
+                "tweet_url": "https://twitter.com/i/web/status/1210285293812801538",
+                "food": "Pork rib nachos",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "29.7589382",
+                "lon": "-95.3676974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-95.3676974",
+                    "29.7589382"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210249088970702851",
+            "properties": {
+                "timestamp": "1577409642",
+                "date": "2019-12-27 01:20",
+                "tweet_url": "https://twitter.com/i/web/status/1210249088970702851",
+                "food": "Pork Roast and Vegetable Terrine",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "42.041003",
+                "lon": "-74.118329"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.118329",
+                    "42.041003"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210334495439638528",
+            "properties": {
+                "timestamp": "1577430005",
+                "date": "2019-12-27 07:00",
+                "tweet_url": "https://twitter.com/i/web/status/1210334495439638528",
+                "food": "Portuguese Rolls",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "40.7896239",
+                "lon": "-73.9598939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.9598939",
+                    "40.7896239"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210394745874214912",
+            "properties": {
+                "timestamp": "1577444370",
+                "date": "2019-12-27 10:59",
+                "tweet_url": "https://twitter.com/i/web/status/1210394745874214912",
+                "food": "Potato Chips (kettle brand)",
+                "category": "Side",
+                "country": "United States",
+                "lat": "37.7884969",
+                "lon": "-122.3558473"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.3558473",
+                    "37.7884969"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210360897606180869",
+            "properties": {
+                "timestamp": "1577436300",
+                "date": "2019-12-27 08:45",
+                "tweet_url": "https://twitter.com/i/web/status/1210360897606180869",
+                "food": "Pretzels",
+                "category": "Side",
+                "country": "United States",
+                "lat": "33.8942729",
+                "lon": "-83.95574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-83.95574",
+                    "33.8942729"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210326972728954881",
+            "properties": {
+                "timestamp": "1577428211",
+                "date": "2019-12-27 06:30",
+                "tweet_url": "https://twitter.com/i/web/status/1210326972728954881",
+                "food": "Prime Rib",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "34.0536909",
+                "lon": "-118.2427666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.2427666",
+                    "34.0536909"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210233129581064192",
+            "properties": {
+                "timestamp": "1577405837",
+                "date": "2019-12-27 00:17",
+                "tweet_url": "https://twitter.com/i/web/status/1210233129581064192",
+                "food": "Pumpkin Bread",
+                "category": "Dessert",
+                "country": "United States",
+                "lat": "37.102841",
+                "lon": "-85.3063504"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-85.3063504",
+                    "37.102841"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210425400918020101",
+            "properties": {
+                "timestamp": "1577451678",
+                "date": "2019-12-27 13:01",
+                "tweet_url": "https://twitter.com/i/web/status/1210425400918020101",
+                "food": "Pumpkin Pie",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "32.6400541",
+                "lon": "-117.0841955"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.0841955",
+                    "32.6400541"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210386354141425664",
+            "properties": {
+                "timestamp": "1577442369",
+                "date": "2019-12-27 10:26",
+                "tweet_url": "https://twitter.com/i/web/status/1210386354141425664",
+                "food": "Quiche",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "36.1662859",
+                "lon": "-115.149225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-115.149225",
+                    "36.1662859"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210378113953218561",
+            "properties": {
+                "timestamp": "1577440404",
+                "date": "2019-12-27 09:53",
+                "tweet_url": "https://twitter.com/i/web/status/1210378113953218561",
+                "food": "Ribeye Steaks",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "41.7370229",
+                "lon": "-99.5873816"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-99.5873816",
+                    "41.7370229"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210341179667156994",
+            "properties": {
+                "timestamp": "1577431598",
+                "date": "2019-12-27 07:26",
+                "tweet_url": "https://twitter.com/i/web/status/1210341179667156994",
+                "food": "Ribs and fries",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "35.8428646",
+                "lon": "-90.7034522"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-90.7034522",
+                    "35.8428646"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210339941261152256",
+            "properties": {
+                "timestamp": "1577431303",
+                "date": "2019-12-27 07:21",
+                "tweet_url": "https://twitter.com/i/web/status/1210339941261152256",
+                "food": "Roasted turkey breast, baked black forest ham in praline honey ham marinade, corn, green beans, brown gravy, mashed potatoes, shells",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "37.1232245",
+                "lon": "-78.4927721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-78.4927721",
+                    "37.1232245"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210244456114466816",
+            "properties": {
+                "timestamp": "1577408538",
+                "date": "2019-12-27 01:02",
+                "tweet_url": "https://twitter.com/i/web/status/1210244456114466816",
+                "food": "Salad",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "27.7567667",
+                "lon": "-81.4639835"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.4639835",
+                    "27.7567667"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210378514446209024",
+            "properties": {
+                "timestamp": "1577440500",
+                "date": "2019-12-27 09:55",
+                "tweet_url": "https://twitter.com/i/web/status/1210378514446209024",
+                "food": "Salmon and Lox Bagel",
+                "category": "Side",
+                "country": "United States",
+                "lat": "37.71402905",
+                "lon": "-122.307794151799"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.307794151799",
+                    "37.71402905"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210340763508396032",
+            "properties": {
+                "timestamp": "1577431499",
+                "date": "2019-12-27 07:24",
+                "tweet_url": "https://twitter.com/i/web/status/1210340763508396032",
+                "food": "Salmon and Rice",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "35.2270869",
+                "lon": "-80.8431268"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.8431268",
+                    "35.2270869"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210367828513083392",
+            "properties": {
+                "timestamp": "1577437952",
+                "date": "2019-12-27 09:12",
+                "tweet_url": "https://twitter.com/i/web/status/1210367828513083392",
+                "food": "Salmon sauteed with butter",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "38.8592001",
+                "lon": "-77.0393759"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-77.0393759",
+                    "38.8592001"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210441009546420226",
+            "properties": {
+                "timestamp": "1577455400",
+                "date": "2019-12-27 14:03",
+                "tweet_url": "https://twitter.com/i/web/status/1210441009546420226",
+                "food": "Sausage",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "37.7792808",
+                "lon": "-122.4192363"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.4192363",
+                    "37.7792808"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210309619421085696",
+            "properties": {
+                "timestamp": "1577424074",
+                "date": "2019-12-27 05:21",
+                "tweet_url": "https://twitter.com/i/web/status/1210309619421085696",
+                "food": "Saut\u00e9ed Bok Choy with Shiitake",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "40.7896239",
+                "lon": "-73.9598939"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-73.9598939",
+                    "40.7896239"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210423964700413952",
+            "properties": {
+                "timestamp": "1577451336",
+                "date": "2019-12-27 12:55",
+                "tweet_url": "https://twitter.com/i/web/status/1210423964700413952",
+                "food": "Seafood",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "47.6038321",
+                "lon": "-122.3300624"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.3300624",
+                    "47.6038321"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210388593421799429",
+            "properties": {
+                "timestamp": "1577442903",
+                "date": "2019-12-27 10:35",
+                "tweet_url": "https://twitter.com/i/web/status/1210388593421799429",
+                "food": "Shrimp",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "33.7490987",
+                "lon": "-84.3901849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-84.3901849",
+                    "33.7490987"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210345139589308417",
+            "properties": {
+                "timestamp": "1577432543",
+                "date": "2019-12-27 07:42",
+                "tweet_url": "https://twitter.com/i/web/status/1210345139589308417",
+                "food": "Shrimp Pad Thai",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "26.3586885",
+                "lon": "-80.0830984"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-80.0830984",
+                    "26.3586885"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210334448002256904",
+            "properties": {
+                "timestamp": "1577429993",
+                "date": "2019-12-27 06:59",
+                "tweet_url": "https://twitter.com/i/web/status/1210334448002256904",
+                "food": "Slow Cooker Pumpkin Beer Bread",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "38.8339578",
+                "lon": "-104.8253485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-104.8253485",
+                    "38.8339578"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210331088968654848",
+            "properties": {
+                "timestamp": "1577429193",
+                "date": "2019-12-27 06:46",
+                "tweet_url": "https://twitter.com/i/web/status/1210331088968654848",
+                "food": "Smoked BBQ chicken",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "36.8462923",
+                "lon": "-76.2929252"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-76.2929252",
+                    "36.8462923"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210250919180419073",
+            "properties": {
+                "timestamp": "1577410079",
+                "date": "2019-12-27 01:27",
+                "tweet_url": "https://twitter.com/i/web/status/1210250919180419073",
+                "food": "spaghetti bolognese",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "32.7174209",
+                "lon": "-117.1627714"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-117.1627714",
+                    "32.7174209"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210405979432652801",
+            "properties": {
+                "timestamp": "1577447048",
+                "date": "2019-12-27 11:44",
+                "tweet_url": "https://twitter.com/i/web/status/1210405979432652801",
+                "food": "Spinach & Artichoke Quesadillas",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "38.8339578",
+                "lon": "-104.8253485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-104.8253485",
+                    "38.8339578"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210334028026597378",
+            "properties": {
+                "timestamp": "1577429893",
+                "date": "2019-12-27 06:58",
+                "tweet_url": "https://twitter.com/i/web/status/1210334028026597378",
+                "food": "Steak",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "39.8211225",
+                "lon": "-105.220742990446"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-105.220742990446",
+                    "39.8211225"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210422641871458304",
+            "properties": {
+                "timestamp": "1577451021",
+                "date": "2019-12-27 12:50",
+                "tweet_url": "https://twitter.com/i/web/status/1210422641871458304",
+                "food": "Steak",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "42.1250895",
+                "lon": "-87.9292806729976"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-87.9292806729976",
+                    "42.1250895"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210354724374843392",
+            "properties": {
+                "timestamp": "1577434828",
+                "date": "2019-12-27 08:20",
+                "tweet_url": "https://twitter.com/i/web/status/1210354724374843392",
+                "food": "Steak ",
+                "category": "Entree",
+                "country": "Canada",
+                "lat": "45.4149778",
+                "lon": "-72.749396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.749396",
+                    "45.4149778"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210349228222042114",
+            "properties": {
+                "timestamp": "1577433517",
+                "date": "2019-12-27 07:58",
+                "tweet_url": "https://twitter.com/i/web/status/1210349228222042114",
+                "food": "Stew Oxtails and cabbage medley",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "39.2156213",
+                "lon": "-76.8582049"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-76.8582049",
+                    "39.2156213"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210361204176228352",
+            "properties": {
+                "timestamp": "1577436373",
+                "date": "2019-12-27 08:46",
+                "tweet_url": "https://twitter.com/i/web/status/1210361204176228352",
+                "food": "Sticky Toffee Pudding",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "36.1622296",
+                "lon": "-86.7743531"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-86.7743531",
+                    "36.1622296"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210301584674054144",
+            "properties": {
+                "timestamp": "1577422158",
+                "date": "2019-12-27 04:49",
+                "tweet_url": "https://twitter.com/i/web/status/1210301584674054144",
+                "food": "Strawberry Scones",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "38.8339578",
+                "lon": "-104.8253485"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-104.8253485",
+                    "38.8339578"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210336561314840577",
+            "properties": {
+                "timestamp": "1577430497",
+                "date": "2019-12-27 07:08",
+                "tweet_url": "https://twitter.com/i/web/status/1210336561314840577",
+                "food": "Sugar Cookies",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "30.3321838",
+                "lon": "-81.655651"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-81.655651",
+                    "30.3321838"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210302775755755522",
+            "properties": {
+                "timestamp": "1577422442",
+                "date": "2019-12-27 04:54",
+                "tweet_url": "https://twitter.com/i/web/status/1210302775755755522",
+                "food": "Swedish Sugar Cookies",
+                "category": "Dessert",
+                "country": "United States",
+                "lat": "39.100105",
+                "lon": "-94.5781416"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-94.5781416",
+                    "39.100105"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210346053133836299",
+            "properties": {
+                "timestamp": "1577432760",
+                "date": "2019-12-27 07:46",
+                "tweet_url": "https://twitter.com/i/web/status/1210346053133836299",
+                "food": "Sweet and sour chicken from scratch",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "29.7589382",
+                "lon": "-95.3676974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-95.3676974",
+                    "29.7589382"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210374906828873728",
+            "properties": {
+                "timestamp": "1577439640",
+                "date": "2019-12-27 09:40",
+                "tweet_url": "https://twitter.com/i/web/status/1210374906828873728",
+                "food": "Taco Bar",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "36.1622296",
+                "lon": "-86.7743531"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-86.7743531",
+                    "36.1622296"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210263012206006272",
+            "properties": {
+                "timestamp": "1577412962",
+                "date": "2019-12-27 02:16",
+                "tweet_url": "https://twitter.com/i/web/status/1210263012206006272",
+                "food": "Taco Salad",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "39.7837304",
+                "lon": "-100.4458825"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-100.4458825",
+                    "39.7837304"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210250082588585984",
+            "properties": {
+                "timestamp": "1577409879",
+                "date": "2019-12-27 01:24",
+                "tweet_url": "https://twitter.com/i/web/status/1210250082588585984",
+                "food": "Tamales",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "29.4246002",
+                "lon": "-98.4951405"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-98.4951405",
+                    "29.4246002"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210334448409030657",
+            "properties": {
+                "timestamp": "1577429994",
+                "date": "2019-12-27 06:59",
+                "tweet_url": "https://twitter.com/i/web/status/1210334448409030657",
+                "food": "tortilla pizzas",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "43.5480465",
+                "lon": "-72.5944539"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.5944539",
+                    "43.5480465"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210335732579078144",
+            "properties": {
+                "timestamp": "1577430300",
+                "date": "2019-12-27 07:05",
+                "tweet_url": "https://twitter.com/i/web/status/1210335732579078144",
+                "food": "Tuna casserole",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "45.9896587",
+                "lon": "-94.6113288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-94.6113288",
+                    "45.9896587"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210386455039746048",
+            "properties": {
+                "timestamp": "1577442393",
+                "date": "2019-12-27 10:26",
+                "tweet_url": "https://twitter.com/i/web/status/1210386455039746048",
+                "food": "Turchetta",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "42.6334247",
+                "lon": "-71.3161718"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-71.3161718",
+                    "42.6334247"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210386097924124672",
+            "properties": {
+                "timestamp": "1577442308",
+                "date": "2019-12-27 10:25",
+                "tweet_url": "https://twitter.com/i/web/status/1210386097924124672",
+                "food": "Turkey",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "32.9715645",
+                "lon": "-89.7348497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-89.7348497",
+                    "32.9715645"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210331588984262656",
+            "properties": {
+                "timestamp": "1577429312",
+                "date": "2019-12-27 06:48",
+                "tweet_url": "https://twitter.com/i/web/status/1210331588984262656",
+                "food": "Turkey Sausage Meatballs",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "33.4485866",
+                "lon": "-112.0773456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-112.0773456",
+                    "33.4485866"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210275115050717185",
+            "properties": {
+                "timestamp": "1577415847",
+                "date": "2019-12-27 03:04",
+                "tweet_url": "https://twitter.com/i/web/status/1210275115050717185",
+                "food": "Vegan",
+                "category": "Side",
+                "country": "Canada",
+                "lat": "45.9741023",
+                "lon": "-72.3752421"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-72.3752421",
+                    "45.9741023"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210372954028150784",
+            "properties": {
+                "timestamp": "1577439174",
+                "date": "2019-12-27 09:32",
+                "tweet_url": "https://twitter.com/i/web/status/1210372954028150784",
+                "food": "Vegan Carrot Loaf",
+                "category": "Side",
+                "country": "United States",
+                "lat": "39.7837304",
+                "lon": "-100.4458825"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-100.4458825",
+                    "39.7837304"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210325401182056448",
+            "properties": {
+                "timestamp": "1577427837",
+                "date": "2019-12-27 06:23",
+                "tweet_url": "https://twitter.com/i/web/status/1210325401182056448",
+                "food": "Vegan Chocolate Mint Tart",
+                "category": "Dessert",
+                "country": "United States",
+                "lat": "34.0923014",
+                "lon": "-118.3692894"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.3692894",
+                    "34.0923014"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210436494088736768",
+            "properties": {
+                "timestamp": "1577454323",
+                "date": "2019-12-27 13:45",
+                "tweet_url": "https://twitter.com/i/web/status/1210436494088736768",
+                "food": "Vegetable",
+                "category": "Side",
+                "country": "United States",
+                "lat": "45.4871723",
+                "lon": "-122.8037804"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.8037804",
+                    "45.4871723"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210362739555741702",
+            "properties": {
+                "timestamp": "1577436739",
+                "date": "2019-12-27 08:52",
+                "tweet_url": "https://twitter.com/i/web/status/1210362739555741702",
+                "food": "Vegetables",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "36.993645",
+                "lon": "-121.891949845977"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-121.891949845977",
+                    "36.993645"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210384765960015873",
+            "properties": {
+                "timestamp": "1577441990",
+                "date": "2019-12-27 10:19",
+                "tweet_url": "https://twitter.com/i/web/status/1210384765960015873",
+                "food": "Venison",
+                "category": "Entree",
+                "country": "United States",
+                "lat": "35.4729886",
+                "lon": "-97.5170536"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-97.5170536",
+                    "35.4729886"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210230345867522048",
+            "properties": {
+                "timestamp": "1577405174",
+                "date": "2019-12-27 00:06",
+                "tweet_url": "https://twitter.com/i/web/status/1210230345867522048",
+                "food": "Waffles",
+                "category": "Breakfast",
+                "country": "United States of America",
+                "lat": "35.845999",
+                "lon": "-86.3920452"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-86.3920452",
+                    "35.845999"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210257723604029444",
+            "properties": {
+                "timestamp": "1577411701",
+                "date": "2019-12-27 01:55",
+                "tweet_url": "https://twitter.com/i/web/status/1210257723604029444",
+                "food": "Walnut Bread",
+                "category": "Dessert",
+                "country": "United States",
+                "lat": "38.5110803",
+                "lon": "-122.8473388"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-122.8473388",
+                    "38.5110803"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210228253279113216",
+            "properties": {
+                "timestamp": "1577404675",
+                "date": "2019-12-26 23:57",
+                "tweet_url": "https://twitter.com/i/web/status/1210228253279113216",
+                "food": "Whipped Cheesecake Pie and Pumpkin Pie",
+                "category": "Dessert",
+                "country": "United States of America",
+                "lat": "40.7127281",
+                "lon": "-74.0060152"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-74.0060152",
+                    "40.7127281"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210354082940108804",
+            "properties": {
+                "timestamp": "1577434675",
+                "date": "2019-12-27 08:17",
+                "tweet_url": "https://twitter.com/i/web/status/1210354082940108804",
+                "food": "Whiskey infused gouda",
+                "category": "Side",
+                "country": "United States of America",
+                "lat": "40.0796606",
+                "lon": "-89.4337288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-89.4337288",
+                    "40.0796606"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "1210437247998119937",
+            "properties": {
+                "timestamp": "1577454503",
+                "date": "2019-12-27 13:48",
+                "tweet_url": "https://twitter.com/i/web/status/1210437247998119937",
+                "food": "Xiong long bao",
+                "category": "Entree",
+                "country": "United States of America",
+                "lat": "36.7014631",
+                "lon": "-118.7559974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-118.7559974",
+                    "36.7014631"
+                ]
+            }
+        }
+    ]
+}
